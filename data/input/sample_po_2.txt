@@ -1,0 +1,14 @@
+Purchase Order #PO-2024-002
+
+Client: XYZ Industries Ltd  
+Order Date: January 20, 2024
+
+Product: Blue Aluminum Component 5kg
+Qty: 25 units
+Price per unit: $45.00
+
+Total Amount: $1,125.00
+
+Ship to:
+456 Factory Road
+Industrial Zone
