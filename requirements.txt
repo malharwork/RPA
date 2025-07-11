@@ -1,0 +1,13 @@
+pandas
+openpyxl
+PyPDF2
+pytesseract
+Pillow
+opencv-python
+python-docx
+requests==2.31.0
+beautifulsoup4
+schedule
+python-dateutil
+xlsxwriter
+smtplib
